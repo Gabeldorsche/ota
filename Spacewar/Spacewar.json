@@ -1,0 +1,17 @@
+{
+  "response": [
+    {
+      "datetime": 1713016955,
+      "filename": "PixysOS-v7.2.1-GAPPS-Spacewar-UNOFFICIAL-20240413-190959.zip",
+      "payload": [
+        {
+          "offset": ,
+          "FILE_HASH": "2mwNuETsX/7Wy4jRH5yNAHgsCq8HEhmEIzzIQsPmYBs=",
+          "FILE_SIZE": "2235465139",
+          "METADATA_HASH": "dw+NknE9ZeNfMbew3r4+K3nWmslluiQtxX5oZIyD12E=",
+          "METADATA_SIZE": "140210"
+        }
+      ]
+    }
+  ]
+}
