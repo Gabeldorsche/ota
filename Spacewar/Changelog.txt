@@ -1,1 +1,3 @@
-inital stable ?
+* Updated to NOS 2.5.5
+* improved jemalloc
+* aod on charging
