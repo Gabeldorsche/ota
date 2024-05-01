@@ -1,0 +1,17 @@
+{
+  "response": [
+    {
+      "datetime": 1714563405,
+      "filename": "PixysOS-v7.2.1-GAPPS-coral-OFFICIAL-20240501-162854.zip",
+      "payload": [
+        {
+          "offset": 3525,
+          "FILE_HASH": "jstI8ggXbXoTKoJqdZaj3rDJ7ruibwyyyZtBnaD4YJI=",
+          "FILE_SIZE": "2257699013",
+          "METADATA_HASH": "M0ozW59UTb2NDxDOmW7n0pUU9oe0teeTZGGx6gCSG4w=",
+          "METADATA_SIZE": "121581"
+        }
+      ]
+    }
+  ]
+}
