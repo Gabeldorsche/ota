@@ -1,15 +1,15 @@
 {
   "response": [
     {
-      "datetime": 1714563405,
-      "filename": "PixysOS-v7.2.1-GAPPS-coral-OFFICIAL-20240501-162854.zip",
+      "datetime": 1714577540,
+      "filename": "PixysOS-v7.2.1-GAPPS-coral-OFFICIAL-20240501-203155.zip",
       "payload": [
         {
           "offset": 3525,
-          "FILE_HASH": "jstI8ggXbXoTKoJqdZaj3rDJ7ruibwyyyZtBnaD4YJI=",
-          "FILE_SIZE": "2257699013",
-          "METADATA_HASH": "M0ozW59UTb2NDxDOmW7n0pUU9oe0teeTZGGx6gCSG4w=",
-          "METADATA_SIZE": "121581"
+          "FILE_HASH": "Q+YMA2Wy3fAvD+XrD/1Fysum/WpUMP+RNpqkZBTe34s=",
+          "FILE_SIZE": "2347703101",
+          "METADATA_HASH": "ZwijaX2NzqPnFuovy2ZxvB5I1TqdJ7gxhMBuFGHrf0M=",
+          "METADATA_SIZE": "124599"
         }
       ]
     }
