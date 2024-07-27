@@ -1,0 +1,11 @@
+New Features 
+
+🔅 Brightness slider position customisation 
+🔐 More Lockscreen Pattern sizes
+🔍 More search features in launcher
+🎮 Revamped Gaming mode with more features
+🔎 Search selector for supported regions
+
+Fixes & improvements 
+
+🌄 Fixed AI wallpaper generation 

@@ -1,0 +1,20 @@
+{
+  "response": [
+    {
+      "datetime": 1722076927,
+      "filename": "PixysOS-v7.3.2-INCREMENTAL-Spacewar-UNOFFICIAL-20240727-155808.zip",
+      "url": "https://dl.aswinaskurup.xyz/PixysOS/Spacewar/incremental/PixysOS-v7.3.2-INCREMENTAL-Spacewar-UNOFFICIAL-20240727-155808.zip",
+     "expected_filename": "PixysOS-v7.3.2-GAPPS-Spacewar-UNOFFICIAL-20240720-020740.zip",
+      "md5": "e60e135ef8ec431fb7bec5ed0c6508aa",
+      "payload": [
+        {
+          "offset": 4777,
+          "FILE_HASH": "viby94SnmPR7kB56nNHcl+Q+UoBpQzrWt/9P+drHsig=",
+          "FILE_SIZE": "141290220",
+          "METADATA_HASH": "vY1M0fw1owhsdSx3zPWtyy2ZXWzSs0Tou6HbqJcBdnc=",
+          "METADATA_SIZE": "427318"
+        }
+      ]
+    }
+  ]
+}

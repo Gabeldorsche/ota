@@ -1,0 +1,20 @@
+{
+  "response": [
+    {
+      "datetime": 1722075431,
+      "filename": "PixysOS-v7.3.2-INCREMENTAL-coral-UNOFFICAL-20240727-153020.zip",
+      "url": "https://dl.aswinaskurup.xyz/PixysOS/coral/incremental/PixysOS-v7.3.2-INCREMENTAL-coral-UNOFFICAL-20240727-153020.zip",
+      "expected_filename": "PixysOS-v7.3.2-GAPPS-coral-UNOFFICIAL-20240720-152719.zip",
+      "md5": "9f3eccd4225d361e210b106f1bb4dc44",
+      "payload": [
+        {
+          "offset": 4304,
+          "FILE_HASH": "Yaud3vyOBZFQduzGrG9exv3SkYpMdqn2y3AgLtHPz1c=",
+          "FILE_SIZE": "111172581",
+          "METADATA_HASH": "B/o5IKtZHtdAawHOAldrw5cja7g34GGLORdJswjnBuQ=",
+          "METADATA_SIZE": "188341"
+        }
+      ]
+    }
+  ]
+}
