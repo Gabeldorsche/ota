@@ -1,18 +1,18 @@
 {
   "response": [
     {
-      "datetime": 1722075431,
-      "filename": "PixysOS-v7.3.2-INCREMENTAL-coral-UNOFFICAL-20240727-153020.zip",
-      "url": "https://dl.aswinaskurup.xyz/PixysOS/coral/incremental/PixysOS-v7.3.2-INCREMENTAL-coral-UNOFFICAL-20240727-153020.zip",
-      "expected_filename": "PixysOS-v7.3.2-GAPPS-coral-UNOFFICIAL-20240720-152719.zip",
-      "md5": "9f3eccd4225d361e210b106f1bb4dc44",
+      "datetime": 1723021036,
+      "filename": "PixysOS-v7.3.3-INCREMENTAL-coral-UNOFFICIAL-20240807-132707.zip",
+      "url": "https://dl.aswinaskurup.xyz/PixysOS/coral/incremental/PixysOS-v7.3.3-INCREMENTAL-coral-UNOFFICIAL-20240807-132707.zip",
+      "md5": "4dea7bc1226de7c9beb68392ad242561",
+ "expected_filename": "PixysOS-v7.3.2-GAPPS-coral-UNOFFICIAL-20240727-132611.zip",
       "payload": [
         {
-          "offset": 4304,
-          "FILE_HASH": "Yaud3vyOBZFQduzGrG9exv3SkYpMdqn2y3AgLtHPz1c=",
-          "FILE_SIZE": "111172581",
-          "METADATA_HASH": "B/o5IKtZHtdAawHOAldrw5cja7g34GGLORdJswjnBuQ=",
-          "METADATA_SIZE": "188341"
+          "offset": 4322,
+          "FILE_HASH": "3OrxqIRXUqHQeBI3LNv4hjyriIkFWhnoW7x9FG5Uvgg=",
+          "FILE_SIZE": "85308063",
+          "METADATA_HASH": "Cf1wRc48pIuVfMi6yYVNYc5omy5boJzJKwt0vTNVSHE=",
+          "METADATA_SIZE": "181120"
         }
       ]
     }
