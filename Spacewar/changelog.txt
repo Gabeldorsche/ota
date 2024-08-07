@@ -1,12 +1,8 @@
-New Features 
+New Features & Improvements
 
-🔅 Brightness slider position customisation 
-🔐 More Lockscreen Pattern sizes
-🔍 More search features in launcher
-🎮 Revamped Gaming mode with more features
-🔎 Search selector for supported regions
+🛡 August 2024 security patch
+🔓 Quick unlock for pin 
 
-Fixes & improvements 
+Fixes & Enhancements
 
-🌄 Fixed AI wallpaper generation 
-📶 Fixed manual network selection
+⚒️ Updated kernel to latest google/qcom changes
